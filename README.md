@@ -1,4 +1,4 @@
-## Carpeta DSS: Datos y código de *Análisis de Datos para las Ciencias Sociales* de Llaudet e Imai
+## Carpeta DSS: Datos y Código de *Análisis de Datos para las Ciencias Sociales* (Llaudet and Imai's *Data Analysis for Social Science*, aka DSS)
 
 <a href="https://github.com/ellaudet/carpetaDSS/releases/latest/download/DSS.zip"><img src="download_box_es.png" alt="La carpeta DSS: haz clic en esta imagen para descargar DSS.zip y sigue los pasos" width="700"></a>
 
